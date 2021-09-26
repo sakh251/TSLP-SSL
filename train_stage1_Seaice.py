@@ -218,16 +218,7 @@ if __name__ == '__main__':
 
     args.arch = "cifar_cnn"
     # args.arch = "vgg_16"
-    args.workers = 30
-    # args.arch = "windresnet"
-    args.batch_size = 30
-    args.test_batch_size = 20
-    args.lr_rampdown_epochs = 10000
-    args.epochs =400
-    args.checkpoint_epochs = 1
-    args.evaluation_epochs = 1
-    args.test_only = False
-    args.lr = 0.0008
+    
     args.consistency = None
     args.warmup = 2
     print(args)
