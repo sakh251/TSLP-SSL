@@ -372,28 +372,7 @@ if __name__ == '__main__':
     args.Sarch = "cifar_cnn"
     # args.arch = "wideresnet50_2Model"
     args.labeled_batch_size = 20
-    args.batch_size = 40
-    args.Sbatch_size = 40
-    args.workers = 10
-    args.epochs = 200
-    args.lr_rampdown_epochs = 210
-    args.dfs_k = 20
-    args.alpha = 0.99
-    args.ss_continue = False
-    args.checkpoint_epochs = 1
-    args.evaluation_epochs = 1
-    args.change_unlabeled_epochs = 1000
-    args.test_only = False
-    args.isL2 = True
-    # args.isMT = True
-    # args.double_output = Truel
-    # args.lr=0.0001
-    # # args.Slr=0.002
-    # args.Slr=0.002
-
-    args.lr = 0.0001
-    # args.Slr=0.002
-    args.Slr = 0.002
+    
 
     print(args)
     # args.unlabels_dirs =['unlabeled_HH_0_0' , 'unlabeled_HH_0_1', 'unlabeled_HH_1_0', 'unlabeled_HH_1_1', 'unlabeled_HH_2_0', 'unlabeled_HH_2_1']
