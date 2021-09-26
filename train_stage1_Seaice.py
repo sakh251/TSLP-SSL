@@ -227,7 +227,7 @@ if __name__ == '__main__':
     args.checkpoint_epochs = 1
     args.evaluation_epochs = 1
     args.test_only = False
-    args.lr = 0.001
+    args.lr = 0.0008
     args.consistency = None
     args.warmup = 2
     print(args)
