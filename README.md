@@ -1,6 +1,6 @@
 # TSLP-SSL
 
-This is the pyTorch implementation of "Deep Semi-Supervised Teacher-Student Model based on Label Propagation for Sea Ice Classification" TSLP-SSL.(PaperLink)
+This is the PyTorch implementation of "Deep Semi-Supervised Teacher-Student Model based on Label Propagation for Sea Ice Classification" TSLP-SSL.(PaperLink)
 
 ![alt text](https://github.com/sakh251/TSLP-SSL/blob/main/images/diagram.JPG)
 
