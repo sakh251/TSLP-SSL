@@ -6,3 +6,7 @@ This is the pyTorch implementation of "Deep Semi-Supervised Teacher-Student Mode
 
 # Reference
 We used this implementation as the reference [method](https://github.com/ahmetius/LP-DeepSSL)
+
+# Citation
+
+
