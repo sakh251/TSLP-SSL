@@ -391,7 +391,7 @@ if __name__ == '__main__':
     # # args.Slr=0.002
     # args.Slr=0.002
 
-    args.lr = 0.0008
+    args.lr = 0.0001
     # args.Slr=0.002
     args.Slr = 0.002
 
